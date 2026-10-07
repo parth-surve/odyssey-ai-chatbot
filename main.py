@@ -124,7 +124,7 @@
 # #py main.py
 
 
-# #v4
+# #v4 Langchain Version
 # import os
 # from dotenv import load_dotenv
 # from langchain_groq import ChatGroq
